@@ -5,16 +5,17 @@
 
 🔗 [Bally’s Casino Website](https://www.ballyscolombo.com)  
 
+**Note: All configs, IPs, and diagrams in this repo are **sanitized**. No customer data is exposed**. 
 ---
 
-## 🌍 Project Overview
+## Project Overview
 As Lead Engineer, I managed the **end-to-end core network and security infrastructure** for **Bally’s Casino Colombo**, ensuring uninterrupted connectivity for a **24/7 casino operation**.  
 
 The solution integrated **multi-vendor firewalls (SonicWall & FortiGate)**, **Ruckus wireless infrastructure**, and **VPN interconnectivity** across multiple locations, while prioritizing surveillance and operations traffic for security and compliance.  
 
 ---
 
-## 🎯 Business Challenges
+## Business Challenges
 - Requirement for **segmentation** between guest Wi-Fi, casino operations, and surveillance systems.  
 - Heavy **video surveillance traffic** needed guaranteed QoS to avoid packet loss.  
 - **Multiple sites** required secure VPN interconnectivity with centralized policies.  
@@ -23,7 +24,7 @@ The solution integrated **multi-vendor firewalls (SonicWall & FortiGate)**, **Ru
 
 ---
 
-## 🛠️ Solution Implemented
+## Solution Implemented
 - **SonicWall and FortiGate Firewalls** for perimeter defense, segmentation, and policy enforcement.  
 - **Ruckus Wireless Controller + APs** to manage campus-wide wireless for staff and guests.  
 - **VPN tunnels** connecting multiple locations with encryption for secure inter-site traffic.  
@@ -33,17 +34,17 @@ The solution integrated **multi-vendor firewalls (SonicWall & FortiGate)**, **Ru
 
 ---
 
-## 📊 Outcomes & Benefits
-- 🔒 **Strict segmentation** between guest, operations, and surveillance traffic.  
-- 🎥 **Stable surveillance video streams** with QoS prioritization.  
-- 🌐 **Secure VPN connectivity** between HQ and multiple locations.  
-- 📡 **Centralized wireless control** with Ruckus controller for high user density.  
-- ⚡ **Improved uptime** with redundancy and proactive monitoring.  
-- 🛡️ **Stronger overall security posture** with multi-vendor firewall integration.  
+## Outcomes & Benefits
+- **Strict segmentation** between guest, operations, and surveillance traffic.  
+- **Stable surveillance video streams** with QoS prioritization.  
+- **Secure VPN connectivity** between HQ and multiple locations.  
+- **Centralized wireless control** with Ruckus controller for high user density.  
+- **Improved uptime** with redundancy and proactive monitoring.  
+- **Stronger overall security posture** with multi-vendor firewall integration.  
 
 ---
 
-## 📈 My Key Contributions
+## My Key Contributions
 - Designed the **multi-zone segmentation** across guest, staff, ops, and surveillance.  
 - Configured **SonicWall & FortiGate firewalls** for perimeter security and VPN.  
 - Deployed **Ruckus controller + APs** for managed wireless across the property.  
@@ -53,5 +54,3 @@ The solution integrated **multi-vendor firewalls (SonicWall & FortiGate)**, **Ru
 
 ---
 
-
-> ⚠️ **Note:** All configs and diagrams are sanitized. No sensitive customer data is shared.  
