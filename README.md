@@ -1,5 +1,7 @@
 # Core Network & Security Management – Bally’s Casino Colombo  
-**Role:** Lead Network & Security Engineer (AcSys Networks)  
+<p>
+  <img src="https://img.shields.io/badge/Role-Lead%20Network%20%26%20Security%20Engineer-blue" width="350">
+</p>
 
 🔗 [Bally’s Casino Website](https://www.ballyscolombo.com)  
 
