@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Role-Lead%20Network%20%26%20Security%20Engineer-blue" width="350">
 </p>
 
-🔗 [Bally’s Casino Website](https://www.ballyscolombo.com)  
+🔗 [Bally’s Casino Website](https://www.ballyscolombo.com/)  
 
 <img src="https://img.shields.io/badge/Sanitized-All%20configs%2C%20IPs%20%26%20diagrams%20are%20sanitized.%20No%20customer%20data%20exposed.-red" width="600">
 
